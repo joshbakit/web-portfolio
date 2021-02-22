@@ -10138,7 +10138,7 @@ h3 {
   }
 }
 
-@media (min-width: 340px){
+@media (max-width: 576px){
   .masthead{
     height: 70vh;
   }
