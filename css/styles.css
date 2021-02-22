@@ -10137,6 +10137,14 @@ h3 {
     font-family: 'Garamond';
   }
 }
+
+@media (min-width: 340px){
+  .masthead{
+    height: 70vh;
+  }
+
+}
+
 .portfolio .portfolio-item {
   cursor: pointer;
   position: relative;
